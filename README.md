@@ -17,3 +17,10 @@ El DCU ha sido objeto de estudio de **estándares internacionales**, especialmen
  
 ![proceso iterativo](http://www.nosolousabilidad.com/articulos/img/js3.gif)
 
+Recientemente el ISO 13407 ha sido actualizado y renombrado como ISO 9241-210 y este describe **seis principios clave:**
+* El diseño está basado en una comprensión explícita de **usuarios, tareas y entornos**.
+* Los usuarios están **involucrados** durante el diseño y el desarrollo.
+* El diseño está dirigido y refinado por **evaluaciones** centradas en usuarios.
+* El proceso es **iterativo**.
+* El diseño está dirigido a toda la **experiencia de usuario**.
+* El equipo de diseño incluye habilidades y pespectivas **multidisciplinares**
