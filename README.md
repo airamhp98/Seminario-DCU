@@ -14,3 +14,6 @@ El DCU ha sido objeto de estudio de **estándares internacionales**, especialmen
  * Especificar los requisitos de usuario.
  * Producir soluciones de diseño.
  * Evaluar los diseños en base a los requisitos.
+ 
+![proceso iterativo](http://www.nosolousabilidad.com/articulos/img/js3.gif)
+
