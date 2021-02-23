@@ -41,5 +41,5 @@ Utilizando toda la información recopilada, así como los diferentes perfiles de
 Aquí no se que poner, ya me dirán cuando hagan el diseño.
 ## 7. Github, revisión
 Creamos el repositorio de la asignatura, y dentro de este, un README del seminario en cuestión, en el que hemos desarrollado todo el proceso realizado para el desarollo del mismo. Posteriormente, todos los miembros del grupo hemos revisado tanto el PDF como el Markdown de Github, comprobando que no habían fallos ortográficos ni estructurales.
-# 8. Entrega
+## 8. Entrega
 Tras la realización de todos los pasos anteriores de forma satisfactoria, hemos subido al campus virtual de la asignatura, el PDF con el DCU, y el enlace a este repositorio, donde se detallan los pasos realizados.
