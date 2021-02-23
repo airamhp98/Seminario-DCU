@@ -39,7 +39,7 @@ Desarrollamos en profundidad estos puntos en el **PDF**.
 ## 5. Desarrollo completo del DCU
 Utilizando toda la información recopilada, así como los diferentes perfiles de los usuarios, podemos completar el DCU de nuestra APP, además de su aplicación para el diseño conceptual.
 ## 6. Diseño conceptual de la aplicación.
-Aquí no se que poner, ya me dirán cuando hagan el diseño.
+Definimos los personajes y los escenarios, además de la especificación de los requisitos.
 ## 7. Github, revisión
 Creamos el repositorio de la asignatura, y dentro de este, un README del seminario en cuestión, en el que hemos desarrollado todo el proceso realizado para el desarollo del mismo. Posteriormente, todos los miembros del grupo hemos revisado tanto el PDF como el Markdown de Github, comprobando que no habían fallos ortográficos ni estructurales.
 ## 8. Entrega
