@@ -35,6 +35,7 @@ Definimos los personajes que utilizarán nuestra aplicación, tratándose en nue
  * **alumnos que asisten a clase regularmente, y realizan las tareas al límite de tiempo**, a los que les vendría bien una ayuda para desarrollar sus tareas de forma más óptima y tener tiempo para el resto de sus ocupaciones. Estos son la gran mayoría.
  * **alumnos que no realizan casi ninguna actividad de evaluación continua en la universidad**.
 Desarrollamos en profundidad estos puntos en el **PDF**.
+
 ## 5. Desarrollo completo del DCU
 Utilizando toda la información recopilada, así como los diferentes perfiles de los usuarios, podemos completar el DCU de nuestra APP, además de su aplicación para el diseño conceptual.
 ## 6. Diseño conceptual de la aplicación.
