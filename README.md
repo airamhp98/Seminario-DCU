@@ -44,3 +44,5 @@ Definimos los personajes y los escenarios, además de la especificación de los 
 Creamos el repositorio de la asignatura, y dentro de este, un README del seminario en cuestión, en el que hemos desarrollado todo el proceso realizado para el desarollo del mismo. Posteriormente, todos los miembros del grupo hemos revisado tanto el PDF como el Markdown de Github, comprobando que no habían fallos ortográficos ni estructurales.
 ## 8. Entrega
 Tras la realización de todos los pasos anteriores de forma satisfactoria, hemos subido al campus virtual de la asignatura, el PDF con el DCU, y el enlace a este repositorio, donde se detallan los pasos realizados.
+## 9. Conclusión
+Este seminario de la asignatura, nos ha ayudado a entrar en profundiad en los conceptos dados en la asignatura de Sistemas de Interacción Persona Computador, y a realizar un estudio del alumnado y la carrera. Gestionar el tiempo, resulta más importante de lo que podríamos pensar en un principio y optimizarlo, ayudar mucho al usuario.
