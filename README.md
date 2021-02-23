@@ -31,9 +31,9 @@ Entre otras, con estos datos recopilamos suficiente información para el desarro
 
 ## 4. Definir en el documento los perfiles de usuario de nuestro producto.
 Definimos los personajes que utilizarán nuestra aplicación, tratándose en nuestro caso de **estudiantes del Grado en Ingeniería Informática de la ULL**, aprovechando la información recopilada en el apartado anterior, podemos encontrar diferentes perfiles dentro de los estudiantes, podemos encontrar:
- * **alumnos que son autosuficientes y que no necesitan de ayudas para gestionar el tiempo**, aunque estos son una minoría. 
- * **alumnos que asisten a clase regularmente, y realizan las tareas al límite de tiempo**, a los que les vendría bien una ayuda para desarrollar sus tareas de forma más óptima y tener tiempo para el resto de sus ocupaciones. Estos son la gran mayoría.
- * **alumnos que no realizan casi ninguna actividad de evaluación continua en la universidad**.
+ * **Alumnos que son autosuficientes y que no necesitan de ayudas para gestionar el tiempo**, aunque estos son una minoría. 
+ * **Alumnos que asisten a clase regularmente, y realizan las tareas al límite de tiempo**, a los que les vendría bien una ayuda para desarrollar sus tareas de forma más óptima y tener tiempo para el resto de sus ocupaciones. Estos son la gran mayoría.
+ * **Alumnos que no realizan casi ninguna actividad de evaluación continua en la universidad**.
 Desarrollamos en profundidad estos puntos en el **PDF**.
 
 ## 5. Desarrollo completo del DCU
